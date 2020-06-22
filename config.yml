@@ -1,0 +1,9 @@
+edgar:
+  base_url: https://www.sec.gov/Archives/
+  xml_namespace: {"": http://www.sec.gov/edgar/document/thirteenf/informationtable}
+  data_dir: test
+  use_cache: true
+
+domain:
+  start_year: 2013
+  cik: 728083

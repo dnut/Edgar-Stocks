@@ -1,0 +1,4 @@
+lxml
+python-edgar
+pandas
+pyyaml
